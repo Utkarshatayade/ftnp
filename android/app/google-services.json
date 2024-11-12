@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363996107155",
+    "project_id": "trainnplace-4772f",
+    "storage_bucket": "trainnplace-4772f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363996107155:android:63e71ff62c7a5617dd5866",
+        "android_client_info": {
+          "package_name": "com.t.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIl9JHMyGQ5MkiHIsRPboD63GlN4MQQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
